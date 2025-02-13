@@ -1,7 +1,7 @@
 # MBBS Abroad Website
 
-![Project Preview](![image](https://github.com/user-attachments/assets/95c20b5e-d2d9-42ee-98b1-a66ca43a8ae1)
-) <!-- Add a preview image if available -->
+
+ <!-- Add a preview image if available -->
 
 A modern website to help aspiring medical students pursue MBBS degrees in top international universities.
 
@@ -27,3 +27,7 @@ A modern website to help aspiring medical students pursue MBBS degrees in top in
 1. Clone the repository:
    ```bash
    git clone https://github.com/shamimkhan00/MBBS-website.git
+
+
+![image](https://github.com/user-attachments/assets/e323e0c1-345b-4ce7-a20f-b2dc7dda2e11)
+
