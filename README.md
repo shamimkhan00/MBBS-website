@@ -1,6 +1,7 @@
 # MBBS Abroad Website
 
-![Project Preview](public/preview.png) <!-- Add a preview image if available -->
+![Project Preview](![image](https://github.com/user-attachments/assets/95c20b5e-d2d9-42ee-98b1-a66ca43a8ae1)
+) <!-- Add a preview image if available -->
 
 A modern website to help aspiring medical students pursue MBBS degrees in top international universities.
 
